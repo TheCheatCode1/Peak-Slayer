@@ -1,0 +1,38 @@
+{
+  "files": {
+    "enemy.py": [
+      {
+        "id": "7751b119-f3b4-41e8-bc1d-78dde2ef9980",
+        "line": 46,
+        "version": 1600,
+        "index": 992
+      }
+    ],
+    "main.py": [
+      {
+        "id": "b2888214-8181-45f8-93e2-a70f30bb8990",
+        "line": 4,
+        "version": 6174,
+        "index": 29
+      },
+      {
+        "id": "2db8dfd8-e4b0-4883-b07d-ba1a4404942c",
+        "line": 40,
+        "version": 6174,
+        "index": 908
+      },
+      {
+        "id": "8ec233db-0675-41f3-b95d-6e4ec408ca0b",
+        "line": 54,
+        "version": 6174,
+        "index": 1342
+      },
+      {
+        "id": "58399b1e-2982-4f0e-b0af-2ce60d0ffb49",
+        "line": 63,
+        "version": 6174,
+        "index": 1724
+      }
+    ]
+  }
+}
